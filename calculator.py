@@ -1,0 +1,23 @@
+###calculator
+a=10
+b=5
+print("addition")
+c=a+b
+print(c)
+print(type(c))
+print("subtration")
+d=a-b
+print(type(d))
+print(d) 
+print("multiplication")
+e=a*b
+print(e)
+print(type(e))
+print("division")
+f=a/b
+print(f)
+print(type(f))
+print("division without fraction point")
+g=a//b
+print(g)
+print(type(g))
